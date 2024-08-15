@@ -65,3 +65,7 @@ Enjoy the diverse features of the RCD-MD  to enhance your conversations and mak
 
 ## Developer:
 - [**WhatsApp**](https://wa.me/94789958225)
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="RCD" />
+</p>
