@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: RCD MD
+    runtime: docker
+    branch: master
+    repo: 'https://github.com/DEXTER-BOTS/RCD-MD.git'
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: SESSION_ID
+        sync: false
+      - key: PREFIX
+        sync: false
+      - key: STICKER_PACKNAME
+        value: ',LyFE'
+      - key: RMBG_KEY
+        value: 'null'
+      - key: WARN_LIMIT
+        value: '3'
+      - key: WAPRESENCE
+        value: 'recording'
+      - key: AUTO_READ_STATUS
+        value: 'true'
+      - key: MODE
+        value: 'public'
+      - key: PORT
+        value: '3000'
