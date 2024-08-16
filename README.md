@@ -35,7 +35,7 @@
 # <a href="https://dashboard.render.com/web/new"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=red&style=for-the-badge&logo=msi"></a>
 <pre>
 <code id="code-block">
-https://github.com/DEXTER-BOTS/RCD-MD
+https://github.com/RCD-MD/RCD-MD-V1
 </code>
 </pre>
 <button onclick="copyToClipboard()">Copy</button>
