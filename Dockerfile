@@ -1,5 +1,5 @@
 FROM node:16
-RUN git clone https://github.com/RCD-MD/RCD-MD-V1/root/RCD-MD
+RUN git clone https://github.com/RCD-MD/RCD-MD-V1 /root/RCD-MD
 WORKDIR /root/RCD-MD
 RUN npm install
 EXPOSE 3000
